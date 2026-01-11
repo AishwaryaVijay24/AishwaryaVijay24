@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I’m Aishwarya Vijay</h1>
 <h3 align="center">MSc Artificial Intelligence @ Queen Mary University of London</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZxNnY3emZkY3N3ZWV1Z2RjM3p5Z2Y2NTRqOGt0ZGVkZ2FqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aishwaryavijay24">
@@ -81,15 +78,6 @@ Learned how social context and data availability shape AI adoption.
 - Model robustness and evaluation  
 - Applying MSc AI concepts to real systems  
 - Independent research-driven projects  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AishwaryaVijay24&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaVijay24&theme=tokyonight" height="165"/>
-</p>
 
 ---
 
