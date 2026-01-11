@@ -90,7 +90,7 @@ Learned how social context and data availability shape AI adoption.
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/aishwaryavijay24">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aishwarya-vijay-4230a234a/">LinkedIn</a> •
   <a href="mailto:aishwaryavijay24@gmail.com">Email</a>
 </p>
 
