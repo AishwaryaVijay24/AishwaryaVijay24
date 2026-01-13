@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/aishwaryavijay24">
+  <a href="https://www.linkedin.com/in/aishwarya-vijay-4230a234a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:aishwaryavijay24@gmail.com">
