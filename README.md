@@ -18,7 +18,7 @@
 I’m an **Artificial Intelligence graduate student** who enjoys building **reliable, real-world AI systems**.  
 I work at the intersection of **machine learning, software engineering, and research**, turning ideas into practical, well-designed solutions.
 
-I’ve built MVPs and AI features for live platforms, contributed to an **IEEE-accepted conference paper**, and enjoy working on problems where **correctness, robustness, and thoughtful trade-offs** matter as much as performance.
+I’ve built MVPs and AI features for live platforms, contributed to an **IEEE-accepted conference paper**, and enjoy working on problems where correctness, robustness, and thoughtful trade-offs matter as much as performance.
 
 ---
 
