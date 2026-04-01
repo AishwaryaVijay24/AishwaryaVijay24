@@ -18,7 +18,7 @@
 I’m an **Artificial Intelligence graduate student** who enjoys building **reliable, real-world AI systems**.  
 I work at the intersection of **machine learning, software engineering, and research**, turning ideas into practical, well-designed solutions.
 
-I’ve built MVPs and AI features for live platforms, contributed to an **IEEE-accepted conference paper**, and enjoy working on problems where correctness, robustness, and thoughtful trade-offs matter as much as performance.
+I’ve built MVPs and AI features for live platforms, contributed to an **IEEE-accepted conference paper**, and enjoy working on systems where I can keep learning.
 
 ---
 
@@ -80,7 +80,7 @@ Learned how social context and data availability shape AI adoption.
 
 ## ✨ Fun Fact
 
-> I love turning **complex ideas into simple systems** — and I recharge through travelling, music, and movement 🎶🌍
+> I love turning **complex ideas into simple systems** — and I love travelling, music, and movement 🎶🌍
 
 ---
 
