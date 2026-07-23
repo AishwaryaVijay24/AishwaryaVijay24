@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/Email-aishwaryavijay24%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=AishwaryaVijay24&style=for-the-badge&color=blueviolet" />
-
 </div>
 
 <br/>
