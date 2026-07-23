@@ -278,28 +278,6 @@ I’m especially interested in work where I can combine:
 * 📊 Evaluation and reliability
 * 🌍 Real-world product impact
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AishwaryaVijay24&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaVijay24&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## ✨ A Little More About Me
 
 <div align="center">
